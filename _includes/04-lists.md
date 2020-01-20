@@ -1,4 +1,4 @@
-*Bioshock Infinite
-*The Division
-*Borderlands
-*Fallout: New Vegas
+* Bioshock Infinite
+* The Division
+* Borderlands
+* Fallout: New Vegas
